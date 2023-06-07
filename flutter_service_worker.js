@@ -58,11 +58,11 @@ const RESOURCES = {"assets/AssetManifest.json": "f7bfea64c6b1188b94073d7729696eb
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e95648ef309b0a380ce0fb6f69730397",
-"/": "e95648ef309b0a380ce0fb6f69730397",
+"index.html": "a0857536b41a1ae873e73de9e714a81d",
+"/": "a0857536b41a1ae873e73de9e714a81d",
 "logo-blue.png": "ecc0486483fa528cd2df4f35c7a344e7",
-"main.dart.js": "9a1cad1a1716906a5cf4a5cbf7709700",
-"manifest.json": "ab2da1635115583fb92f2a5cced78686",
+"main.dart.js": "3351c11448aa0e15d02a4d033df05f5b",
+"manifest.json": "fe6e3202f4cf072f1b5fc3790f3422ba",
 "scc-logo-16.png": "8b0553c62d581154f8f57d798ba75c8f",
 "version.json": "ec42a278e836774b97831487161eb8f4"};
 // The application shell files that are downloaded before a service worker can

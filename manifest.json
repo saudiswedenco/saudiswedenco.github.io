@@ -1,11 +1,11 @@
 {
-    "name": "flutter_saudiswedenco",
-    "short_name": "flutter_saudiswedenco",
+    "name": "Saudi Sweden Construction Company",
+    "short_name": "SSC",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "The official website for the Saudi Sweden Construction Company",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
